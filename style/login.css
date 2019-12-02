@@ -7,16 +7,13 @@ div{
 }
 
 .boundary{
-
     width: 350px;
     height: 564px;
-
     background-color: #fff;
     border: 1px solid #e6e6e6;
     border-radius: 1px;
     margin: 0 0 10px;
     padding: 10px 0;
-
 }
 
 .box1{
@@ -26,7 +23,6 @@ div{
     padding: 50px;
     /* margin: 10px; */
     /* border: 1px dotted red; */
-
     margin:0 auto;
 }
 
@@ -37,7 +33,6 @@ div{
     /* padding: 50px; */
     /* margin: 10px; */
     /* border: 1px dotted blue; */
-
     margin:0 auto;
 }
 
@@ -48,7 +43,6 @@ div{
     /* padding: 50px; */
     /* margin: 10px; */
     /* border: 1px dotted blue; */
-
     margin:0 auto;
 }
 
@@ -59,7 +53,6 @@ div{
     /* padding: 50px; */
     /* margin: 10px; */
     /* border: 2px dotted red; */
-
     margin:0 auto;
 }
 
@@ -68,15 +61,10 @@ div{
     height: 36px;
     border-radius: 3px;
     border: 1px solid #efefef;
-
     background: #fafafa;
-
     color: rgba(var(--i1d,38,38,38),1);
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-
-
     font-size: 16px;
-
 }
 
 .user_or_password_input2{
@@ -84,15 +72,10 @@ div{
     height: 36px;
     border-radius: 3px;
     border: 1px solid #efefef;
-
     background: #fafafa;
-
     color: rgba(var(--i1d,38,38,38),1);
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-
-
     font-size: 16px;
-
 }
 
 input
@@ -106,14 +89,9 @@ input
     text-shadow: none;
     display: inline-block;
     text-align: start;
-
-
     -webkit-rtl-ordering: logical;
     cursor: text;
-
     font: 400 11px system-ui;
-
-
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -127,16 +105,12 @@ input
     -webkit-flex-grow: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
-
-
     padding-left: 10px;
 }
 
 
 .box3_button{
-
     background-color: rgba(var(--h5f,56,151,240),1);
-
     color: rgba(var(--eca,255,255,255),1);
 
     -webkit-box-orient: horizontal;
@@ -156,7 +130,6 @@ input
     max-width: 935px;
     padding-bottom: 22px;
     width: 100%;
-
 }
 
 .box3_button_2{
@@ -164,5 +137,4 @@ input
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 18px;
-    
 }

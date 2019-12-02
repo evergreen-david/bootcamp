@@ -45,6 +45,5 @@ commentFromUserId.addEventListener('keyup', function() {
         position.appendChild(newElement);
 
         commentFromUser.value ="";
-
     }
 });
